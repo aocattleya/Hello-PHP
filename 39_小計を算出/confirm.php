@@ -5,7 +5,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Progate</title>
+  <title>aocattleya</title>
   <link rel="stylesheet" type="text/css" href="stylesheet.css">
   <link href='https://fonts.googleapis.com/css?family=Pacifico|Lato' rel='stylesheet' type='text/css'>
 </head>
